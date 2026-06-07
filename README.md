@@ -31,7 +31,7 @@ aml-conformal-prediction/
 │   ├── baseline_results.csv
 │   ├── conformal_results.csv
 │   └── uncertainty_per_patient.csv
-├── environment.yml
+├── .gitignore
 └── README.md
 ```
 
