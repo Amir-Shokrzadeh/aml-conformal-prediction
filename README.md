@@ -16,6 +16,8 @@ We demonstrate that statistically calibrated prediction intervals are achievable
 - Uncertainty is drug-driven rather than patient-subtype-driven
 
 ## Repository Structure
+
+```text
 aml-conformal-prediction/
 ├── notebooks/
 │   ├── 01_data_exploration.ipynb
@@ -26,16 +28,12 @@ aml-conformal-prediction/
 │   └── 06_figures_paper.ipynb
 ├── results/
 │   ├── figures/
-│   │   ├── fig1_baseline_performance.png
-│   │   ├── fig2_calibration_curves.png
-│   │   ├── fig3_uncertainty_by_drug_class.png
-│   │   ├── fig4_top_bottom_drugs.png
-│   │   └── fig5_uncertainty_heatmap.png
 │   ├── baseline_results.csv
 │   ├── conformal_results.csv
 │   └── uncertainty_per_patient.csv
 ├── environment.yml
 └── README.md
+```
 
 ## Data
 
