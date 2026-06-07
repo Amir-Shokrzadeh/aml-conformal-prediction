@@ -50,8 +50,8 @@ Place all files in `data/raw/` before running notebooks.
 ## Installation
 
 ```bash
-conda create -n drug_ai python=3.9
-conda activate drug_ai
+conda create -n [env_name] python=3.9
+conda activate [env_name]
 conda install -c conda-forge scikit-learn xgboost pandas numpy matplotlib mapie
 ```
 
