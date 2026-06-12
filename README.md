@@ -63,7 +63,8 @@ Run notebooks in order (01 → 06). Each notebook saves outputs to `data/process
 
 > Shokrzadeh A, Shokrzadeh P. Calibrated Uncertainty Quantification for Patient-Level AML Drug Sensitivity Prediction Using Split Conformal Prediction. 2025. GitHub: https://github.com/Amir-Shokrzadeh/aml-conformal-prediction
 
-Preprint coming soon on bioRxiv.
+Preprint on bioRxiv.
+doi: https://doi.org/10.64898/2026.06.07.730728
 
 ## Authors
 
